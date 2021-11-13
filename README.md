@@ -1,2 +1,2 @@
 # shitposting
-Just a collaborative shitposting website. 
+Just a collaborative **very professional** shitposting website. 
